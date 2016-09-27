@@ -1,3 +1,3 @@
 # hello-world
 
-A sample program.
+A sample program. Made by thethoughtful1.
