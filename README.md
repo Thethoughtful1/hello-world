@@ -1,5 +1,7 @@
 # hello-world
 
-A sample program. Made by thethoughtful1.
+A sample program.
 
-Now simpler.
+Currently being used for git testing.
+
+Change A.
